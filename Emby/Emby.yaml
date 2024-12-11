@@ -1,8 +1,8 @@
 payload:
 
 #MisakaF
- - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,misakaf.org
 
 #Magpie,喜鹤
- - DOMAIN-SUFFIX,023168.xyz
- - DOMAIN-SUFFIX,223789.xyz
+  - DOMAIN-SUFFIX,023168.xyz
+  - DOMAIN-SUFFIX,223789.xyz
