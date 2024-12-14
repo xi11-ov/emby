@@ -25,3 +25,5 @@ IP-SUFFIX,5.45.109.91
 
 #纸片人小站
 DOMAIN-SUFFIX,embyplus.org
+#
+USER-AGENT,Emby*
